@@ -43,4 +43,3 @@ Rule-based recommender systems find applications in domains where explicit rules
 - Content recommendation in news portals or online publications.
 - Restaurant recommendation systems based on dietary preferences, location, and cuisine types.
 
-![Image Alt Text]("Architecture Diagram.png")
